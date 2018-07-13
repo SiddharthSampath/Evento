@@ -166,7 +166,7 @@
                   }
                   ?>
                       <h5 class="mt-1 mb-2">Admin</h5>
-                      <form action="sum2.php" method="post">
+                      <form action = '' method="post">
 
                       <div class="md-form ml-0 mr-0">
 
